@@ -1,0 +1,32 @@
+/.gradle/6.9/executionHistory/executionHistory.bin
+/.gradle/6.9/executionHistory/executionHistory.lock
+/.gradle/6.9/fileChanges/last-build.bin
+/.gradle/6.9/fileContent/fileContent.lock
+/.gradle/6.9/fileHashes/fileHashes.bin
+/.gradle/6.9/fileHashes/fileHashes.lock
+/.gradle/6.9/fileHashes/resourceHashesCache.bin
+/.gradle/6.9/gc.properties
+/.gradle/6.9/javaCompile/classAnalysis.bin
+/.gradle/6.9/javaCompile/jarAnalysis.bin
+/.gradle/6.9/javaCompile/javaCompile.lock
+/.gradle/6.9/javaCompile/taskHistory.bin
+/.gradle/buildOutputCleanup/buildOutputCleanup.lock
+/.gradle/buildOutputCleanup/cache.properties
+/.gradle/buildOutputCleanup/outputFiles.bin
+/.gradle/checksums/checksums.lock
+/.gradle/configuration-cache/gc.properties
+/.gradle/vcs-1/gc.properties
+/.idea/.gitignore
+/.idea/compiler.xml
+/.idea/jarRepositories.xml
+/.idea/vcs.xml
+/logs/archived/*.log
+/logs/*.log
+
+# Class Files #
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear

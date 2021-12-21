@@ -1,0 +1,14 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: voting-service
+  profiles:
+    active: dev
+  webflux:
+    base-path: /
+mongo:
+  database:
+    name: voting
+user-info-service:
+  url: https://user-info.herokuapp.com/users/{cpf}
