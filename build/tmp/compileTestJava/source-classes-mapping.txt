@@ -1,2 +1,0 @@
-com/sicredi/voting/VotingApplicationTests.java
- com.sicredi.voting.VotingApplicationTests
